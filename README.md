@@ -25,7 +25,7 @@ All modules are Python classes, generally named after the function of the module
 
 ## Premade Modules
 - Example: Says "Hello World!" and echoes your prompt.
-- Weather: Curls the weather wrom wttr.in.
+- Weather: Curls the weather from wttr.in.
 - FileOpener: Opens the file in your home directory that best matches a query.
 - Music: Plays media from ~/Music and ~/Videos in VLC.
 - Http: Uses Lynx with DuckDuckGo for web browsing. Will take generic input as a search query.
